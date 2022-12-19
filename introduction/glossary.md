@@ -10,6 +10,8 @@ description: Used for platform or blockchain
 
 **Block Hash:** The hash of the block header of the current block.
 
+**Leverage:** Leverage means performing multiple transactions by using the assets in your personal wallet as margin in a smart contract.
+
 **Swap:** A trade from token A to token B on a DEX.
 
 **Transaction (Tx):** Transfer of a coin or token between two wallets.
