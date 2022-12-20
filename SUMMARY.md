@@ -37,3 +37,7 @@
 * [Facebook](https://www.facebook.com/profile.php?id=100088689012207\&mibextid=ZbWKwL)
 * [Twitter](https://twitter.com/Blockdxpro?t=MbPfBfDF3D8a5NSrq5FV2Q\&s=09)
 * [YouTube](https://youtube.com/@dxblock4807)
+
+## Personal wallet
+
+* [🕸 TOKENPOCKET](personal-wallet/tokenpocket.md)
