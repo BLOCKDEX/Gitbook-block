@@ -40,4 +40,4 @@
 
 ## Personal wallet
 
-* [🕸 TOKENPOCKET](personal-wallet/tokenpocket.md)
+* [🕸 TokenPocket](personal-wallet/tokenpocket.md)
