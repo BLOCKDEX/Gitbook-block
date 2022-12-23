@@ -27,8 +27,8 @@
 ## Appendix
 
 * [Fees](appendix/fees.md)
-* [Team](appendix/team.md)
-* [Legal Disclaimer](appendix/legal-disclaimer.md)
+* [Team](appendix/team/README.md)
+  * [Legal Disclaimer](appendix/team/legal-disclaimer.md)
 
 ## LINKS
 
