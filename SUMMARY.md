@@ -27,6 +27,7 @@
 ## Appendix
 
 * [Trading Rules](appendix/trading-rules.md)
+* [Profit and Loss](appendix/profit-and-loss.md)
 * [Fees](appendix/fees.md)
 * [Team](appendix/team/README.md)
   * [Legal Disclaimer](appendix/team/legal-disclaimer.md)
