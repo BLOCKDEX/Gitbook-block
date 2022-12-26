@@ -5,3 +5,7 @@
 {% endhint %}
 
 <table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th></tr></thead><tbody><tr><td align="center">Leverage Trade x1</td><td align="center">0.01%</td></tr><tr><td align="center">Leverage Trade x5</td><td align="center">0.05%</td></tr><tr><td align="center">Leverage Trade x10</td><td align="center">0.1%</td></tr><tr><td align="center">Leverage Trade x20</td><td align="center">0.2%</td></tr><tr><td align="center">Swap</td><td align="center">1%</td></tr><tr><td align="center">Equity pledge release</td><td align="center">1%</td></tr></tbody></table>
+
+{% hint style="warning" %}
+The higher the leverage, the higher the fees
+{% endhint %}
