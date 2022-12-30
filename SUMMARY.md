@@ -12,7 +12,8 @@
 
 ## Our Platform
 
-* [🚀 Getting Trade](our-platform/getting-trade.md)
+* [🚀 Getting Trade](our-platform/getting-trade/README.md)
+  * [Trading Rules](our-platform/getting-trade/trading-rules.md)
 * [🧲 Swap](our-platform/swap.md)
 * [🎉 Dividends](our-platform/dividends.md)
 * [📊 Transaction](our-platform/transaction.md)
@@ -26,7 +27,6 @@
 
 ## Appendix
 
-* [Trading Rules](appendix/trading-rules.md)
 * [Profit and Loss](appendix/profit-and-loss.md)
 * [Fees](appendix/fees.md)
 * [Team](appendix/team/README.md)

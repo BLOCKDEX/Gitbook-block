@@ -10,8 +10,8 @@ Enjoy fast and seamless block hash trading with BlockDx Web 3.0 Dapp anytime, an
 
 We've put together some helpful guides for you to understand our platform quickly and easily.
 
-{% content-ref url="our-platform/getting-trade.md" %}
-[getting-trade.md](our-platform/getting-trade.md)
+{% content-ref url="our-platform/getting-trade/" %}
+[getting-trade](our-platform/getting-trade/)
 {% endcontent-ref %}
 
 {% content-ref url="our-platform/swap.md" %}
