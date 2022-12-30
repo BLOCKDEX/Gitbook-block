@@ -31,6 +31,8 @@
 * [Fees](appendix/fees.md)
 * [Team](appendix/team/README.md)
   * [Legal Disclaimer](appendix/team/legal-disclaimer.md)
+* [Terms of Service](appendix/terms-of-service.md)
+* [Privacy Policy](appendix/privacy-policy.md)
 
 ## LINKS
 
