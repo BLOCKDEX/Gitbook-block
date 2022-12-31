@@ -12,7 +12,7 @@
 
 <table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th align="center"></th></tr></thead><tbody><tr><td align="center">  Trade x1</td><td align="center">0.01% x 1 x parameter(B+L)</td></tr><tr><td align="center">Leverage Trade x5</td><td align="center">0.01% x 5 x parameter(B+L)</td></tr><tr><td align="center">Leverage Trade x10</td><td align="center">0.01% x 10 x parameter(B+L)</td></tr><tr><td align="center">Leverage Trade x20</td><td align="center">0.01% x 20 x parameter(B+L)</td></tr></tbody></table>
 
-<figure><img src="../.gitbook/assets/图片1.png" alt=""><figcaption><p><strong>Example</strong><br></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/图片1.png" alt=""><figcaption><p><strong>Example</strong><br></p></figcaption></figure>
 
 #### Others
 
