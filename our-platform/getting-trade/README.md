@@ -28,7 +28,7 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/示例2.png" alt=""><figcaption><p>In the total trading volume of the contract, when (the number of settlements as L - the number of settlements as B) = 10, the contract is closed with a take profit. Conversely, when (the number of settlements as B - the number of settlements as L) = 8, the contract is closed with a stop loss.</p></figcaption></figure>
 
-#### Limit Trade Example（Close positions manually）
+#### Limit Trade Example（Clearing positions manually）
 
 <figure><img src="../../.gitbook/assets/平仓.png" alt=""><figcaption><p>Before the contract transaction is automatically closed, the position can be manually closed on the current page.</p></figcaption></figure>
 
