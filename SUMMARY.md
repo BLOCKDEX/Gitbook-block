@@ -12,20 +12,20 @@
 
 ## Our Platform
 
-* [🚀 Getting Trade](our-platform/getting-trade/README.md)
+* [Getting Trade](our-platform/getting-trade/README.md)
   * [Trading Rules](our-platform/getting-trade/trading-rules.md)
   * [Profit and Loss](our-platform/getting-trade/profit-and-loss.md)
   * [Fees](our-platform/getting-trade/fees.md)
-* [🧲 Swap](our-platform/swap.md)
-* [🎉 Dividends](our-platform/dividends.md)
-* [📊 Transaction](our-platform/transaction.md)
-* [🦸♂ Referral](our-platform/referral.md)
+* [Swap](our-platform/swap.md)
+* [Dividends](our-platform/dividends.md)
+* [Transaction](our-platform/transaction.md)
+* [Referral](our-platform/referral.md)
 
 ## BLDX TOKEN
 
-* [💡 Information](bldx-token/information.md)
-* [⚖ Multi-chain & Distribution](bldx-token/multi-chain-and-distribution.md)
-* [♨ Token Burning](bldx-token/token-burning.md)
+* [Information](bldx-token/information.md)
+* [Multi-chain & Distribution](bldx-token/multi-chain-and-distribution.md)
+* [Token Burning](bldx-token/token-burning.md)
 
 ## Appendix
 
@@ -44,4 +44,4 @@
 
 ## Personal wallet
 
-* [🕸 TokenPocket](personal-wallet/tokenpocket.md)
+* [TokenPocket](personal-wallet/tokenpocket.md)
