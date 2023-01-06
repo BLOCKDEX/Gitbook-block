@@ -26,7 +26,7 @@ BlockDx exchanges run BlockDx transactions by linking personal wallets, so my as
 
 ### Transparency
 
-The smart contract code is stored in the public domain and anyone can view all transactions at any time. The transaction has a variety of unique characteristics, including reliability, fairness, and transparency.Transparency.
+The smart contract code is stored in the public domain and anyone can view all transactions at any time. The transaction has a variety of unique characteristics, including reliability, fairness, and transparency.
 
 ### An anonymous transaction
 
