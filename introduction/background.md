@@ -30,4 +30,4 @@ The smart contract code is stored in the public domain and anyone can view all t
 
 ### An anonymous transaction
 
-BlockDex exchanges do not require procedures such as membership, personal information collection, or KYC authentication, but can be traded immediately by linking your wallet.
+BlockDex exchanges do not require procedures such as membership, personal information collection, or KYC authentication, but can be traded immediately by connect your wallet.
