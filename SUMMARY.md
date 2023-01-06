@@ -12,14 +12,14 @@
 
 ## Our Platform
 
-* [Getting Trade](our-platform/getting-trade/README.md)
+* [🔑 Getting Trade](our-platform/getting-trade/README.md)
   * [Trading Rules](our-platform/getting-trade/trading-rules.md)
   * [Profit and Loss](our-platform/getting-trade/profit-and-loss.md)
   * [Fees](our-platform/getting-trade/fees.md)
-* [Swap](our-platform/swap.md)
-* [Dividends](our-platform/dividends.md)
-* [Transaction](our-platform/transaction.md)
-* [Referral](our-platform/referral.md)
+* [💱 Swap](our-platform/swap.md)
+* [🧲 Dividends](our-platform/dividends.md)
+* [🔎 Transaction](our-platform/transaction.md)
+* [🤝 Referral](our-platform/referral.md)
 
 ## BLDX TOKEN
 

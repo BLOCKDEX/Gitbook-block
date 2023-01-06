@@ -2,9 +2,10 @@
 description: >-
   Enjoy fast and seamless block hash trading with BlockDx Web 3.0 Dapp anytime,
   anywhere.
+coverY: 0
 ---
 
-# 🚀 Getting Trade
+# 🔑 Getting Trade
 
 
 
