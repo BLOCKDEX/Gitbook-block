@@ -8,7 +8,7 @@
 * [Background](introduction/background.md)
 * [🇰🇾 Platform Introduction](introduction/platform-introduction.md)
 * [Why Matic(Polygon)?](introduction/why-matic-polygon.md)
-* [Why block hash？](introduction/why-block-hash.md)
+* [Why Block Hash？](introduction/why-block-hash.md)
 
 ## Our Platform
 
