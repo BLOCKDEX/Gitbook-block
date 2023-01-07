@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/charts-gea28046f3_1920(1).jpg
+coverY: 0
+---
+
 # 🇰🇾 Platform Introduction
 
 BlockDx Exchange is a decentralized platform of blockchain developed by an anonymous development team. BlockDx's headquarters are established in the Cayman Islands, a British overseas territory in the Caribbean.
