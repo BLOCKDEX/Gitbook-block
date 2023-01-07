@@ -1,8 +1,10 @@
 ---
 description: Pledge and get a safe return on equity
+cover: ../.gitbook/assets/charts-gea28046f3_1920(1).jpg
+coverY: 0
 ---
 
-# 🎉 Dividends
+# 🧲 Dividends
 
 {% hint style="info" %}
 **Important note:** Please be aware that our platform can only be used after being accessed on the Dapp at present, the content and technical specifications of this chapter are subject to change.

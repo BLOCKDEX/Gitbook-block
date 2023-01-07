@@ -1,3 +1,8 @@
-# 🕸 TOKENPOCKET
+---
+cover: ../.gitbook/assets/charts-gea28046f3_1920(1).jpg
+coverY: 0
+---
 
-{% file src="../.gitbook/assets/토큰포켓 이용가이드.pdf" %}
+# TokenPocket
+
+{% file src="../.gitbook/assets/TokenPocket_EN.pdf" %}

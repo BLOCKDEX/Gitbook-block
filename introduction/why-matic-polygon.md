@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/charts-gea28046f3_1920(1).jpg
+coverY: 0
+---
+
 # Why Matic(Polygon)?
 
 Based on the Ethereum network, the MATIC network achieves high-throughput secondary expansion through side chains, and its mission completion throughput can meet the transaction needs of large-scale DApps. These sidechains use a PoS algorithm that allows developers to deploy scalable smart contracts without high transaction fees. MATIC is a scalable and instant blockchain transaction. The focus of the project is to solve the problem of large-scale user adoption, achieve high transaction throughput and low gas fees.

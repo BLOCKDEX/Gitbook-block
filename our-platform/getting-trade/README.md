@@ -2,6 +2,7 @@
 description: >-
   Enjoy fast and seamless block hash trading with BlockDx Web 3.0 Dapp anytime,
   anywhere.
+cover: ../../.gitbook/assets/charts-gea28046f3_1920(1).jpg
 coverY: 0
 ---
 

@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/charts-gea28046f3_1920(1).jpg
+coverY: 0
+---
+
 # Terms of Service
 
 #### 1. Terms
@@ -7,8 +12,6 @@ By accessing the website at https://blockdx.pro, you are agreeing to be bound by
 **2. Use License**
 
 a. Permission is granted to temporarily download one copy of the materials (information or software) on BlockDx's website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
-
-
 
 * modify or copy the materials;
 * use the materials for any commercial purpose, or for any public display (commercial or non-commercial);

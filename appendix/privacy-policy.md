@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/charts-gea28046f3_1920(1).jpg
+coverY: 0
+---
+
 # Privacy Policy
 
 Your privacy is important to us. It is BlockDx's policy to respect your privacy regarding any information we may collect from you across our website, https://blockdx.pro, and other sites we own and operate.

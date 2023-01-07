@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/charts-gea28046f3_1920(1).jpg
+coverY: 0
+---
+
 # Team
 
 ### Who we are？

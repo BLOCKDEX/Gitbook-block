@@ -2,9 +2,11 @@
 description: >-
   BlockDx is a transparent, secure, multi-chain-based decentralized swap
   exchange.
+cover: ../.gitbook/assets/charts-gea28046f3_1920(1).jpg
+coverY: 0
 ---
 
-# 🧲 Swap
+# 💱 Swap
 
 {% hint style="info" %}
 **Important note:** Please be aware that ourechnical specifications of this chapter are subject to change.ge.zed swap exchange.ifications of this chapter are subject to change.
