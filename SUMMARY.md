@@ -37,10 +37,9 @@
 ## LINKS
 
 * [Telegram](https://t.me/blockdx)
-* [Instagram](https://www.instagram.com/invites/contact/?i=1b9mbt2i4jbdf\&utm\_content=q3zuz6t)
-* [Facebook](https://www.facebook.com/profile.php?id=100088689012207\&mibextid=ZbWKwL)
 * [Twitter](https://twitter.com/Blockdxpro?t=MbPfBfDF3D8a5NSrq5FV2Q\&s=09)
-* [YouTube](https://youtube.com/@dxblock4807)
+* [Medium](https://www.medium.com/@blockdxpro)
+* [Github](https://github.com/BLDX-SC)
 
 ## Personal wallet
 
