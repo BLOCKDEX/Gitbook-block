@@ -12,7 +12,7 @@ Blockdex headquarters is established in the Cayman Islands, a British overseas t
 
 ## Latest Defi Development
 
-In terms of products and user acceptance, DeFi is witnessing exponential expansion. A wide array of financial products have been deployed on multiple blockchains In a decentralized, highly accessible, and trustless way. By 2021, the total value locked in DeFi has increased to $53.18 billion, up from $1.08 billion the previous year. BlockDex, a decentralized exchange on the Polygon blockchain, is one of the most well-known and widely used DeFi protocols on the blockchain with a fully diluted market capitalization of 10.0 billion USD (as of December, 30th 2022).
+In terms of products and user acceptance, DeFi is witnessing exponential expansion. A wide array of financial products have been deployed on multiple blockchains In a decentralized, highly accessible, and trustless way. By 2021, the total value locked in DeFi has increased to $53.18 billion, up from $1.08 billion the previous year. BlockDex, a decentralized exchange on the Polygon blockchain, is one of the most well-known and widely used DeFi protocols on the blockchain with a fully diluted market capitalization of 10.0 billion USD (as 2022).
 
 ## The best BlockDex
 
