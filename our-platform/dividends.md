@@ -12,4 +12,4 @@ coverY: 0
 
 <figure><img src="../.gitbook/assets/截屏2022-12-20 04.39.52.png" alt=""><figcaption><p>Equity participants operate equity nodes using BLDX tokens and running BlockDx pledge software. As compensation to the BlockDx exchange, you receive 1/N of 20% of the transaction fees collected on the network.</p></figcaption></figure>
 
-## <mark style="color:blue;"></mark>[<mark style="color:blue;">Click here to join BlockDx Pledge Node</mark>](https://blockdx.pro/blockdx/dapp.html#/dividends)<mark style="color:blue;"></mark>
+## <mark style="color:red;"></mark>[<mark style="color:red;">Click</mark> ](https://blockdx.pro/blockdx/dapp.html#/dividends)<mark style="color:blue;">here to join BlockDx Pledge Node</mark>
