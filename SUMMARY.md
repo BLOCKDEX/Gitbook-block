@@ -17,7 +17,7 @@
   * [Profit and Loss](our-platform/getting-trade/profit-and-loss.md)
   * [Fees](our-platform/getting-trade/fees.md)
 * [💱 Swap](our-platform/swap.md)
-* [🧲 Dividends](our-platform/dividends.md)
+* [🧲 Pledge Node](our-platform/pledge-node.md)
 * [🔎 Transaction](our-platform/transaction.md)
 * [🤝 Referral](our-platform/referral.md)
 
