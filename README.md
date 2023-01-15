@@ -20,8 +20,8 @@ We've put together some helpful guides for you to understand our platform quickl
 [swap.md](our-platform/swap.md)
 {% endcontent-ref %}
 
-{% content-ref url="our-platform/pledge-node.md" %}
-[pledge-node.md](our-platform/pledge-node.md)
+{% content-ref url="our-platform/dividends.md" %}
+[dividends.md](our-platform/dividends.md)
 {% endcontent-ref %}
 
 {% content-ref url="our-platform/transaction.md" %}
