@@ -17,4 +17,4 @@ Based on the Ethereum network, the MATIC network achieves high-throughput second
 
 5\. Achieve the highest level of security and efficiency and achieve ultra-low gas fees
 
-## &#x20;[Click here to go to _Polygonscan_](https://polygonscan.com/) __&#x20;
+## &#x20;[Click here to go to Polygonscan](https://polygonscan.com/)&#x20;
