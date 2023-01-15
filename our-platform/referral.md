@@ -13,3 +13,5 @@ coverY: 0
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/截屏2022-12-20 06.00.14.png" alt=""><figcaption><p>Recommend a friend to get up to 40% commission on BlockDx Block hash transaction fees.</p></figcaption></figure>
+
+## <mark style="color:blue;"></mark>[<mark style="color:blue;">Click here to refer a friend to BlockDx</mark>](https://blockdx.pro/blockdx/dapp.html#/referral)<mark style="color:blue;"></mark>

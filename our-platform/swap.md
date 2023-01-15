@@ -13,3 +13,5 @@ coverY: 0
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/截屏2022-12-20 04.39.14 (1).png" alt=""><figcaption><p>I.  A trade from token MATIC to token BLDX.<br>II. A trade from token BLDX to token MATIC.</p></figcaption></figure>
+
+## <mark style="color:blue;"></mark>[<mark style="color:blue;">Click here to trade on BlockDx Swap</mark>](https://blockdx.pro/blockdx/dapp.html#/swap)<mark style="color:blue;"></mark>
