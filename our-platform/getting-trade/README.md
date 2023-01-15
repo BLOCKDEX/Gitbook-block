@@ -8,8 +8,6 @@ coverY: 0
 
 # 🔑 Getting Trade
 
-
-
 {% hint style="info" %}
 **Important note:** Please be aware that our platform can only be used after being accessed on the Dapp at present, the content and technical specifications of this chapter are subject to change.
 {% endhint %}
@@ -34,4 +32,4 @@ coverY: 0
 
 <figure><img src="../../.gitbook/assets/平仓.png" alt=""><figcaption><p>Before the contract transaction is automatically closed, the position can be manually closed on the current page.</p></figcaption></figure>
 
-## <mark style="color:blue;"></mark>[<mark style="color:blue;">Click here to go to BlockDx trading</mark>](https://blockdx.pro/blockdx/dapp.html#/index)<mark style="color:blue;">.</mark>
+## <mark style="color:blue;">C</mark>[<mark style="color:blue;">lick here to go to BlockDx trading</mark>](https://blockdx.pro/blockdx/dapp.html#/index)<mark style="color:blue;">.</mark>
