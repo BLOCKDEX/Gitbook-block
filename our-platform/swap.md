@@ -12,6 +12,8 @@ coverY: 0
 **Important note:** Please be aware that ourechnical specifications of this chapter are subject to change.ge.zed swap exchange.ifications of this chapter are subject to change.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/截屏2022-12-20 04.39.14 (1).png" alt=""><figcaption><p>I.  A trade from token MATIC to token BLDX.<br>II. A trade from token BLDX to token MATIC.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/swap1 (1).png" alt=""><figcaption><p>A trade from token MATIC to token BLDX.<br>The fee(1%) is deducted from personal wallet holdings as Matic.</p></figcaption></figure>
 
-## <mark style="color:blue;"></mark>[<mark style="color:blue;">Click here to trade on BlockDx Swap</mark>](https://blockdx.pro/blockdx/dapp.html#/swap)<mark style="color:blue;"></mark>
+<figure><img src="../.gitbook/assets/swap2 (1).png" alt=""><figcaption><p>A trade from token BLDX to token MATIC.<br>The fee (1%) is deducted from the swap volume as Matic.</p></figcaption></figure>
+
+## &#x20;[<mark style="color:blue;">Click here to trade on BlockDx Swap</mark>](https://blockdx.pro/blockdx/dapp.html#/swap)&#x20;
