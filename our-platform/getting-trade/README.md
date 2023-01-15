@@ -32,4 +32,4 @@ coverY: 0
 
 <figure><img src="../../.gitbook/assets/平仓.png" alt=""><figcaption><p>Before the contract transaction is automatically closed, the position can be manually closed on the current page.</p></figcaption></figure>
 
-## &#x20;<mark style="color:yellow;"></mark> [<mark style="color:red;">Click</mark>](https://blockdx.pro/blockdx/dapp.html#/index) <mark style="color:blue;">here to go to BlcokDx trading</mark>
+## &#x20;<mark style="color:yellow;"></mark> [<mark style="color:yellow;">Click</mark>](https://blockdx.pro/blockdx/dapp.html#/index) <mark style="color:blue;">here to go to BlcokDx trading</mark>
