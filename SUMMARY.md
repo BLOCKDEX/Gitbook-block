@@ -7,8 +7,8 @@
 * [Glossary](introduction/glossary.md)
 * [Background](introduction/background.md)
 * [🇰🇾 Platform Introduction](introduction/platform-introduction.md)
-* [Why Matic(Polygon)?](introduction/why-matic-polygon.md)
 * [Why Block Hash？](introduction/why-block-hash.md)
+* [Why Matic(Polygon)?](introduction/why-matic-polygon.md)
 
 ## Our Platform
 
@@ -18,8 +18,8 @@
   * [Fees](our-platform/getting-trade/fees.md)
 * [💱 Swap](our-platform/swap.md)
 * [🧲 Pledge Node](our-platform/dividends.md)
-* [🔎 Transaction](our-platform/transaction.md)
 * [🤝 Referral](our-platform/referral.md)
+* [🔎 Transaction](our-platform/transaction.md)
 
 ## BLDX TOKEN
 
