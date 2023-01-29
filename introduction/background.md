@@ -1,6 +1,6 @@
 ---
 description: Company Introduction
-cover: ../.gitbook/assets/charts-gea28046f3_1920(1).jpg
+cover: ../.gitbook/assets/1181674801392_.pic_hd.jpg
 coverY: 0
 ---
 
