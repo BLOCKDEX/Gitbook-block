@@ -17,12 +17,10 @@ coverY: 0
 
 <table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th align="center"></th></tr></thead><tbody><tr><td align="center">  Trade x1</td><td align="center">0.02% x 1</td></tr><tr><td align="center">Leverage Trade x5</td><td align="center">0.02% x 5</td></tr><tr><td align="center">Leverage Trade x10</td><td align="center">0.02% x 10</td></tr><tr><td align="center">Leverage Trade x15</td><td align="center">0.02% x 15</td></tr><tr><td align="center">Leverage Trade x15</td><td align="center">0.02% x 15</td></tr></tbody></table>
 
-<figure><img src="../../.gitbook/assets/图片1.png" alt=""><figcaption><p><strong>Example</strong><br></p></figcaption></figure>
-
 {% hint style="warning" %}
 The higher the leverage, the higher the fees
 {% endhint %}
 
 #### Others
 
-<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th align="center"></th></tr></thead><tbody><tr><td align="center">Swap</td><td align="center">1%</td></tr><tr><td align="center">Equity pledge release</td><td align="center">1%</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th align="center"></th></tr></thead><tbody><tr><td align="center">Swap</td><td align="center">1%</td></tr><tr><td align="center"> Pledge Node release</td><td align="center">1%</td></tr></tbody></table>
