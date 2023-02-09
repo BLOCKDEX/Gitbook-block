@@ -30,11 +30,11 @@ description: Market trade & Limit Trade(Auto)
 
 <figure><img src="../../.gitbook/assets/Market-5.png" alt=""><figcaption></figcaption></figure>
 
-#### 6. Invoke smart contract success or failure information
+#### 6. Smart contract success or failure information
 
 <figure><img src="../../.gitbook/assets/Market-6.png" alt=""><figcaption></figcaption></figure>
 
-#### 7. After the transaction is successful, display the transaction information
+#### 7. After the transaction is successful, view the transaction information
 
 <figure><img src="../../.gitbook/assets/Market-7.png" alt=""><figcaption></figcaption></figure>
 
@@ -64,11 +64,11 @@ description: Market trade & Limit Trade(Auto)
 
 <figure><img src="../../.gitbook/assets/Limit-6.png" alt=""><figcaption></figcaption></figure>
 
-#### 7. Invoke smart contract success or failure information
+#### 7. Smart contract success or failure information
 
 <figure><img src="../../.gitbook/assets/Limit-7.png" alt=""><figcaption></figcaption></figure>
 
-#### 8. After the transaction is successful, display the transaction information
+#### 8. After the transaction is successful, view the transaction information
 
 <figure><img src="../../.gitbook/assets/Limit-8.png" alt=""><figcaption></figcaption></figure>
 
