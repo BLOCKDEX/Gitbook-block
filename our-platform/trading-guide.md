@@ -1,3 +1,7 @@
+---
+description: Market trade & Limit Trade(Auto)
+---
+
 # 💡 Trading Guide
 
 ## Market Trade
@@ -30,7 +34,7 @@
 
 <figure><img src="../.gitbook/assets/Market-7.png" alt=""><figcaption></figcaption></figure>
 
-## Limit Trade
+## Limit Trade(Auto)
 
 #### 1. Choose the token to trade
 
@@ -38,7 +42,7 @@
 
 #### 2. Enter the take profit and stop loss parameters
 
-<figure><img src="../.gitbook/assets/Limit-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Limit-2.png" alt=""><figcaption><p> In the total trading volume of the contract, when (the number of settlements as B - the number of            settlements as L) = 5, the contract is completed with a take profit. Conversely, when (the number of      settlements as L - the number of settlements as B) = 2, the contract is completed with a stop loss.        </p></figcaption></figure>
 
 #### 3. Enter the quantity to trade
 
