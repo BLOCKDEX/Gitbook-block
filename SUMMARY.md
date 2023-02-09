@@ -12,11 +12,10 @@
 
 ## Our Platform
 
-* [🔑 Getting Trade](our-platform/getting-trade/README.md)
-  * [Trading Rules](our-platform/getting-trade/trading-rules.md)
-  * [Profit and Loss](our-platform/getting-trade/profit-and-loss.md)
-  * [Fees](our-platform/getting-trade/fees.md)
-* [💡 Trading Guide](our-platform/trading-guide.md)
+* [💡 Trading Guide](our-platform/trading-guide/README.md)
+  * [Trading Rules](our-platform/trading-guide/trading-rules.md)
+  * [Profit and Loss](our-platform/trading-guide/profit-and-loss.md)
+  * [Fees](our-platform/trading-guide/fees.md)
 * [💱 Swap](our-platform/swap.md)
 * [🧲 Pledge Node](our-platform/dividends.md)
 * [🤝 Referral](our-platform/referral.md)
