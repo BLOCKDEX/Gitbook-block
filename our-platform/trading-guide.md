@@ -29,3 +29,41 @@
 #### 7. After the transaction is successful, display the transaction information
 
 <figure><img src="../.gitbook/assets/Market-7.png" alt=""><figcaption></figcaption></figure>
+
+## Limit Trade
+
+#### 1. Choose the token to trade
+
+<figure><img src="../.gitbook/assets/Limit-1.png" alt=""><figcaption></figcaption></figure>
+
+#### 2. Enter the take profit and stop loss parameters
+
+<figure><img src="../.gitbook/assets/Limit-2.png" alt=""><figcaption></figcaption></figure>
+
+#### 3. Enter the quantity to trade
+
+<figure><img src="../.gitbook/assets/Limit-3.png" alt=""><figcaption></figcaption></figure>
+
+#### 4. Choose leverage
+
+<figure><img src="../.gitbook/assets/Limit-4.png" alt=""><figcaption></figcaption></figure>
+
+#### 5. Choose one of the transaction modes
+
+<figure><img src="../.gitbook/assets/Limit-5.png" alt=""><figcaption></figcaption></figure>
+
+#### 6. After calling the smart contract, verify the data and confirm
+
+<figure><img src="../.gitbook/assets/Limit-6.png" alt=""><figcaption></figcaption></figure>
+
+#### 7. Invoke smart contract success or failure information
+
+<figure><img src="../.gitbook/assets/Limit-7.png" alt=""><figcaption></figcaption></figure>
+
+#### 8. After the transaction is successful, display the transaction information
+
+<figure><img src="../.gitbook/assets/Limit-8.png" alt=""><figcaption></figcaption></figure>
+
+#### 9. Before the limit order is automatically completed, the position can be        manually cleared in real time
+
+<figure><img src="../.gitbook/assets/Limit-9.png" alt=""><figcaption></figcaption></figure>
