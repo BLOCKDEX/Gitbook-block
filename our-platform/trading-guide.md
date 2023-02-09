@@ -1,0 +1,31 @@
+# 💡 Trading Guide
+
+## Market Trade
+
+#### 1. Choose the token to trade
+
+<figure><img src="../.gitbook/assets/Market-1.png" alt=""><figcaption></figcaption></figure>
+
+#### 2. Enter the quantity to trade
+
+<figure><img src="../.gitbook/assets/Market-2.png" alt=""><figcaption></figcaption></figure>
+
+#### 3. Choose leverage
+
+<figure><img src="../.gitbook/assets/Market-3 (1).png" alt=""><figcaption></figcaption></figure>
+
+#### 4. Choose one of the transaction modes
+
+<figure><img src="../.gitbook/assets/Market-4.png" alt=""><figcaption></figcaption></figure>
+
+#### 5. After calling the smart contract, verify the data and confirm
+
+<figure><img src="../.gitbook/assets/Market-5.png" alt=""><figcaption></figcaption></figure>
+
+#### 6. Invoke smart contract success or failure information
+
+<figure><img src="../.gitbook/assets/Market-6.png" alt=""><figcaption></figcaption></figure>
+
+#### 7. After the transaction is successful, display the transaction information
+
+<figure><img src="../.gitbook/assets/Market-7.png" alt=""><figcaption></figcaption></figure>
