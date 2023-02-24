@@ -9,7 +9,7 @@ MBNB Smart Chain (BSC) is best described as a blockchain that runs in parallel t
 
 In essence, both blockchains operate side-by-side. It’s worth noting that BSC isn’t a so-called layer two or off-chain scalability solution. It’s an independent blockchain that could run even if BNB Beacon Chain went offline. That said, both chains bear a strong resemblance from a design standpoint.
 
-Because BSC is EVM-compatible, it launched with support for the rich universe of Ethereum tools and DApps. In theory, this makes it easy for developers to port their projects over from Ethereum. For users, it means that applications like MetaMask/TokenPocket can be easily configured to work with BSC. Seriously – it’s just a matter of tweaking a couple of settings.
+Because BSC is EVM-compatible, it launched with support for the rich universe of Ethereum tools and DApps. In theory, this makes it easy for developers to port their projects over from Ethereum. For users, it means that applications like MetaMask/TokenPocket can be easily configured to work with BSC.
 
 1\. Technically, it has the advantages of decentralization, anonymity, traceability and immutable blockchain.
 
