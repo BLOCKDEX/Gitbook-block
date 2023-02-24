@@ -21,4 +21,4 @@ Because BSC is EVM-compatible, it launched with support for the rich universe of
 
 5\. Binance Smart Chain is a new blockchain with a mature environment for developing high-performance decentralized applications
 
-## &#x20;[Click here to go to BSCSCAN](why-matic-polygon.md#www.bscscan.com)[ ](https://www.bscscan.com) <a href="#www.bscscan.com" id="www.bscscan.com"></a>
+## &#x20;[Click here to go to BSCSCAN](https://www.bscscan.com)  <a href="#www.bscscan.com" id="www.bscscan.com"></a>
