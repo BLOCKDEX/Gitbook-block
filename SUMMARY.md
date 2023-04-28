@@ -14,8 +14,10 @@
 
 * [💡 Trading Guide](our-platform/trading-guide/README.md)
   * [Trading Rules](our-platform/trading-guide/trading-rules.md)
+  * [Transaction limit](our-platform/trading-guide/transaction-limit.md)
   * [Profit and Loss](our-platform/trading-guide/profit-and-loss.md)
   * [Fees](our-platform/trading-guide/fees.md)
+* [⛏ Mining](our-platform/mining.md)
 * [💱 Swap](our-platform/swap.md)
 * [🧲 Pledge Node](our-platform/dividends.md)
 * [🤝 Referral](our-platform/referral.md)
@@ -23,8 +25,8 @@
 
 ## BLDX TOKEN
 
+* [Distribution](bldx-token/distribution.md)
 * [Information](bldx-token/information.md)
-* [Multi-chain & Distribution](bldx-token/multi-chain-and-distribution.md)
 * [Token Burning](bldx-token/token-burning.md)
 
 ## Appendix
@@ -36,10 +38,12 @@
 
 ## Smart contract address
 
-* [BLDX Token](https://polygonscan.com/token/0x07cd6a39f1bbabf575eccec2b1ec4db3c1cab889)
-* [Swap(Matic -> BLDX)](https://polygonscan.com/address/0x63cc8655c8d1ba8e2794052787edd9edd0104c36)
-* [Swap(BLDX -> Matic)](https://polygonscan.com/token/0x07cd6a39f1bbabf575eccec2b1ec4db3c1cab889?a=0x63cc8655c8d1ba8e2794052787edd9edd0104c36)
-* [Pledge Node](https://polygonscan.com/token/0x07cd6a39f1bbabf575eccec2b1ec4db3c1cab889?a=0xcc4f8900f636ff14cf979cd06bd16a2bdfa759c3#code)
+* [BLDX Token](https://bscscan.com/address/0x2466682Ac6ebaEc23c5aE456206e9Af4F0ff0074#tokentxns)
+* [Pledge Node](https://bscscan.com/address/0x4ca2dd0fD833c5a4F135C4d4F6e8F43E7F726c94#tokentxns)
+* [Token Swap](https://bscscan.com/address/0x38a5b67B595BeCF52A4e356bfbF55a4f44E69bCb)
+* [BLDX Trade](https://bscscan.com/address/0x974933DFbDdaa28a26152cA62ED49AFD868D062e)
+* [BNB Trade](https://bscscan.com/address/0x974933DFbDdaa28a26152cA62ED49AFD868D062e)
+* [USDT Trade](https://bscscan.com/address/0x8c285C6eb267d34d3647ED4dB93030B634d4053a#tokentxns)
 
 ## LINKS
 

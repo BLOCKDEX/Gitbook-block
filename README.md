@@ -1,5 +1,5 @@
 ---
-description: Multi-Chain Block Hash Exchange
+description: Binance Smart Chain Block Hash Exchange
 cover: .gitbook/assets/1181674801392_.pic_hd.jpg
 coverY: 0
 ---
