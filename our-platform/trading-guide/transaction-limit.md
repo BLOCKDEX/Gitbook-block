@@ -15,8 +15,8 @@ description: >-
 |        Coin                                  |         B mode         |         L mode         |
 | -------------------------------------------- | :--------------------: | :--------------------: |
 | BL <mark style="color:red;">x1</mark> • BLDX | Min: 50,  Max: 10,000K | Min: 50,  Max: 10,000K |
-| BL <mark style="color:red;">x1</mark> • USDT |  Min: 10,  Max: 2,000K |  Min: 10,  Max: 2,000K |
-| BL <mark style="color:red;">x1</mark> • BNB  |  Min: 0.05,  Max: 10K  |  Min: 0.05,  Max: 10K  |
+| BL <mark style="color:red;">x1</mark> • USDT |   Min: 10,  Max: 15K   |   Min: 10,  Max: 15K   |
+| BL <mark style="color:red;">x1</mark> • BNB  |   Min: 0.05,  Max: 50  |   Min: 0.05,  Max: 50  |
 | BL <mark style="color:red;">x1</mark> • USDC |     In development     |     In development     |
 | BL <mark style="color:red;">x1</mark> • DOGE |     In development     |     In development     |
 | BL <mark style="color:red;">x1</mark> • XRP  |     In development     |     In development     |
