@@ -21,6 +21,7 @@
 * [💱 Swap](our-platform/swap.md)
 * [🧲 Pledge Node](our-platform/dividends.md)
 * [🤝 Referral](our-platform/referral.md)
+* [📡 General agent](our-platform/general-agent.md)
 * [🔎 Transaction](our-platform/transaction.md)
 
 ## BLDX TOKEN

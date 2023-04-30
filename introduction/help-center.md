@@ -54,6 +54,6 @@ The blockhash is a value obtained by converting information such as the root has
 
 <summary>What is the Referral revenue?</summary>
 
-Refer a friend to earn up to 40% rewards on BlockDx various token trading fees. When trading, the profits are distributed instantly from the smart contract.
+Refer a friend to earn up to 20% rewards on BlockDx various token trading fees. When trading, the profits are distributed instantly from the smart contract.
 
 </details>
