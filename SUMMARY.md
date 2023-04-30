@@ -17,11 +17,11 @@
   * [Transaction limit](our-platform/trading-guide/transaction-limit.md)
   * [Profit and Loss](our-platform/trading-guide/profit-and-loss.md)
   * [Fees](our-platform/trading-guide/fees.md)
+* [🧲 Pledge Node](our-platform/dividends.md)
 * [⛏ Mining](our-platform/mining.md)
 * [💱 Swap](our-platform/swap.md)
-* [🧲 Pledge Node](our-platform/dividends.md)
-* [🤝 Referral](our-platform/referral.md)
 * [📡 General agent](our-platform/general-agent.md)
+* [🤝 Referral](our-platform/referral.md)
 * [🔎 Transaction](our-platform/transaction.md)
 
 ## BLDX TOKEN
