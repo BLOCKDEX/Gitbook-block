@@ -7,7 +7,7 @@
 * [Glossary](introduction/glossary.md)
 * [Background](introduction/background.md)
 * [🇰🇾 Platform Introduction](introduction/platform-introduction.md)
-* [BlockDx Event](introduction/blockdx-event.md)
+* [BlockDx Notice](introduction/blockdx-notice.md)
 * [Help center](introduction/help-center.md)
 
 ## Our Platform
