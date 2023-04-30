@@ -7,8 +7,7 @@
 * [Glossary](introduction/glossary.md)
 * [Background](introduction/background.md)
 * [🇰🇾 Platform Introduction](introduction/platform-introduction.md)
-* [Why Block Hash？](introduction/why-block-hash.md)
-* [Why Binance Smart Chain?](introduction/why-matic-polygon.md)
+* [BlockDx Event](introduction/blockdx-event.md)
 * [Help center](introduction/help-center.md)
 
 ## Our Platform
@@ -48,7 +47,3 @@
 * [Twitter](https://twitter.com/Blockdxpro?t=MbPfBfDF3D8a5NSrq5FV2Q\&s=09)
 * [Medium](https://www.medium.com/@blockdxpro)
 * [Github](https://github.com/BLDX-SC)
-
-## Personal wallet
-
-* [TokenPocket](personal-wallet/tokenpocket.md)
