@@ -9,6 +9,7 @@
 * [🇰🇾 Platform Introduction](introduction/platform-introduction.md)
 * [Why Block Hash？](introduction/why-block-hash.md)
 * [Why Binance Smart Chain?](introduction/why-matic-polygon.md)
+* [Help center](introduction/help-center.md)
 
 ## Our Platform
 
