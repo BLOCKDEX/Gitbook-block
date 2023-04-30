@@ -35,6 +35,7 @@
 * [Terms of Service](appendix/terms-of-service.md)
 * [Privacy Policy](appendix/privacy-policy.md)
 * [Legal Disclaimer](appendix/legal-disclaimer.md)
+* [Cookie Policy](appendix/cookie-policy.md)
 
 ## Smart contract address
 
