@@ -41,6 +41,6 @@ Real time acquisition of net income from BlockDx Exchange based on share ownersh
 {% endtab %}
 
 {% tab title="Release" %}
-Locked for 300 days.After unfreezing, BLDX Tokens of equal ratio will be obtained. The shares held can be released in real time from the immediate moment. After released, the shares held will be reset. Immediately, no longer receive returns on the shares held.
+Locked for 300 days.After unfreezing, BLDX Tokens of equal ratio will be obtained. The shares held can be released in real time. After released, the shares held will be reset. After reset, no longer receive returns on the shares held.
 {% endtab %}
 {% endtabs %}
