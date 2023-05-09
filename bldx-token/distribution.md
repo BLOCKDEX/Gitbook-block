@@ -33,14 +33,14 @@ Organs participate in 10 million BLDX tokens in order to list BLDX on internatio
 
 <figure><img src="../.gitbook/assets/스왑분배.png" alt=""><figcaption></figcaption></figure>
 
-### Developer Distribution
+### Development Team Stock Pool
 
 {% tabs %}
-{% tab title="10,000,000" %}
-Locked for 400 days, get 0.25% every day whthin 400 days.
+{% tab title="Income" %}
+Real time acquisition of net income from BlockDx Exchange based on share ownership ratio
 {% endtab %}
 
-{% tab title="10,000,000" %}
-Locked for 3 years, and get 0.25% every day after 3 years, for a total of 400 days.
+{% tab title="Release" %}
+Locked for 300 days.After unfreezing, BLDX Tokens of equal ratio will be obtained. The shares held can be released in real time from the immediate moment. After released, the shares held will be reset. No longer receiving stock returns immediately
 {% endtab %}
 {% endtabs %}
