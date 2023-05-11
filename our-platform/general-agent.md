@@ -15,7 +15,7 @@ description: Get up to 30% of the transaction fees of all offline users
 {% endtab %}
 
 {% tab title="Promotion agent conditions" %}
-|      1 Level      |       2Level      |      3 Level      |
+|      1 Level      |      2 Level      |      3 Level      |
 | :---------------: | :---------------: | :---------------: |
 | 50,000 BLDX Token | 30,000 BLDX Token | 10,000 BLDX Token |
 
