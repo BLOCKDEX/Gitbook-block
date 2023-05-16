@@ -1,5 +1,5 @@
 # ⛏ Mining
 
-| Mining Token | Market | Limit |
-| :----------: | :----: | :---: |
-|     BDLX     |  0.02% | 0.01% |
+| Mining Token | Market |  Limit |
+| :----------: | :----: | :----: |
+|     BDLX     | 0.085% | 0.085% |
