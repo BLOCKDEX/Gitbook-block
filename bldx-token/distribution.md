@@ -7,7 +7,7 @@ coverY: 0
 
 ### BLDX Token Distribution
 
-<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th></tr></thead><tbody><tr><td align="center">Total Circulation</td><td align="center">200,000,000</td></tr><tr><td align="center">Swap</td><td align="center">140,000,000</td></tr><tr><td align="center">Trading Liquidity</td><td align="center">20,000,000</td></tr><tr><td align="center">Development Team Stock Pool</td><td align="center">20,000,000</td></tr><tr><td align="center">Airdrop</td><td align="center">20,000,000</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th></tr></thead><tbody><tr><td align="center">Total Circulation</td><td align="center">200,000,000</td></tr><tr><td align="center">Swap</td><td align="center">100,000,000</td></tr><tr><td align="center">Trading Liquidity</td><td align="center">20,000,000</td></tr><tr><td align="center">Development Team Stock Pool</td><td align="center">20,000,000</td></tr><tr><td align="center">Airdrop</td><td align="center">20,000,000</td></tr><tr><td align="center">Marketing</td><td align="center">40,000,000</td></tr></tbody></table>
 
 <figure><img src="../.gitbook/assets/代币分布.png" alt=""><figcaption></figcaption></figure>
 
