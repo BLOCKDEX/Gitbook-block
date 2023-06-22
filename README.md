@@ -6,7 +6,7 @@ coverY: 0
 
 # 🇬🇧 Welcome
 
-Enjoy fast and seamless block hash trading with BlockDx Web 3.0 Dapp anytime, anywhere. of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+Enjoy fast and seamless block hash trading with BlockDx Web 3.0 Dapp anytime, anywhere.&#x20;
 
 ## Plattform Quick Start
 

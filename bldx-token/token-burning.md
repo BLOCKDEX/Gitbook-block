@@ -5,9 +5,7 @@ coverY: 0
 
 # Token Burning
 
-|       Network       | Token |  Quantity  |
-| :-----------------: | :---: | :--------: |
-| Binance Smart Chain |  BLDX | 50,000,000 |
+<table><thead><tr><th width="215" align="center">Network</th><th align="center">Token</th><th align="center">Quantity</th></tr></thead><tbody><tr><td align="center">Binance Smart Chain</td><td align="center">BLDX</td><td align="center">50,000,000</td></tr></tbody></table>
 
 {% hint style="info" %}
 #### 1）10% of the exchange's total commission will be used for BLDX token burning
